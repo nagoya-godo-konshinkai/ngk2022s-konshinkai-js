@@ -1,3 +1,3 @@
 # NGK2022S ランダムトーク グループ分けブックマークレット
 
-index.htmlをダウンロードして、ブラウザで開くと説明とブックマーク用リンクが出てきます。
+https://nagoya-godo-konshinkai.github.io/ngk2022s-konshinkai-js/
